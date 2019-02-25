@@ -64,6 +64,7 @@ function startGame(){
     // reset moves
     moves = 0;
     counter.innerHTML = moves;
+    openedCards = [];
     // reset rating
     for (var i= 0; i < stars.length; i++){
         stars[i].style.color = "#da9b1a";
