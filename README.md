@@ -30,5 +30,9 @@ git clone https://github.com/DonniePrather/MemoryGame
 4. Once you have found all the matches all 16 cards will be face up.
 5. You Win!
 
+## Dependencies
+https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css
+https://fonts.googleapis.com/css?family=Amatic+SC|Orbitron
+
 ## Author
 Donald Prather
