@@ -6,7 +6,7 @@
 * [Install](#Install)
 * [Play](#Play)
 * [Dependencies](#Dependencies)
-* [Author] (#Author)
+* [Author](#Author)
 
 ## About
 
